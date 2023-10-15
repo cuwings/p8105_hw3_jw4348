@@ -1,0 +1,6 @@
+---
+title: "p8105_hw3_jw4348"
+author: "Jingyu Wang"
+output: github_document
+date: "2023-10-12"
+---
